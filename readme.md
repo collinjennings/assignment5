@@ -1,12 +1,19 @@
 # Assignment 5: Python REPL Calculator with Full Testing Coverage
 
-Here is the usage. Enter one of the operation keywords: 
+Here is the usage. Enter one of the operation keywords:
+
 `add`
+
 `subtract`
+
 `multiply`
+
 `divide`
+
 `power`
+
 `root`
+
 Then enter the first number, followed by the second number. 
 
 The Calculator preserves a history of the performed operations, and the user may undo and redo operations, which will be removed or re-added to the history. Beyond the operation commands, the other available commands are: 
