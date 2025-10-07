@@ -2,29 +2,25 @@
 
 Here is the usage. Enter one of the operation keywords:
 
-`add`
-
-`subtract`
-
-`multiply`
-
-`divide`
-
-`power`
-
-`root`
+- `add`
+- `subtract`
+- `multiply`
+- `divide`
+- `power`
+- `root`
 
 Then enter the first number, followed by the second number. 
 
 The Calculator preserves a history of the performed operations, and the user may undo and redo operations, which will be removed or re-added to the history. Beyond the operation commands, the other available commands are: 
-`history` - Show calculation history
-`clear` - Clear calculation history
-`undo` - Undo the last calculation
-`redo` - Redo the last undone calculation
-`save` - Save calculation history to file
-`load` - Load calculation history from file
-`help` - View the calculator documentation 
-`exit` - Exit the calculator
+
+- `history` - Show calculation history
+- `clear` - Clear calculation history
+- `undo` - Undo the last calculation
+- `redo` - Redo the last undone calculation
+- `save` - Save calculation history to file
+- `load` - Load calculation history from file
+- `help` - View the calculator documentation 
+- `exit` - Exit the calculator
 
 
 
